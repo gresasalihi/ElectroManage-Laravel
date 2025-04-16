@@ -34,4 +34,4 @@ To view the full Laravel project, **click on the `ProductManagement` folder** as
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/gresaslh/ElectroManage-Laravel.git
+https://github.com/gresasalihi/ElectroManage-Laravel.git
