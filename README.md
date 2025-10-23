@@ -35,3 +35,7 @@ To view the full Laravel project, **click on the `ProductManagement` folder** as
 
 ```bash
 https://github.com/gresasalihi/ElectroManage-Laravel.git
+
+## ❤️ Credits
+Created by **Gresa Salihi**  
+🎓 Final project for the *Web Programming* Course
